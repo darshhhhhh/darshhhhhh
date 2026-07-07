@@ -5,8 +5,7 @@ Aspiring Machine Learning Engineer | AI/ML Developer | Generative AI & Computer 
 </h3>
 
 <p align="center">
-  <a href="https://darshhhhhh.github.io">Portfolio</a> •
-  <a href="https://github.com/darshhhhhh">GitHub</a> •
+  <a href="https://darshhhhhh.github.io/Portfolio/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/darshil-vaja">LinkedIn</a>
 </p>
 
