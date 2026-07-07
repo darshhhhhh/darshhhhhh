@@ -120,7 +120,7 @@ I enjoy turning real-world problems into structured AI/ML solutions using Python
   <a href="https://github.com/darshhhhhh">
     <img src="https://img.shields.io/badge/GitHub-darshhhhhh-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://darshhhhhh.github.io">
+  <a href="https://darshhhhhh.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
