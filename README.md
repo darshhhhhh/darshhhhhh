@@ -113,7 +113,7 @@ I enjoy turning real-world problems into structured AI/ML solutions using Python
 
 ## Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/darshil-vaja">
     <img src="https://img.shields.io/badge/LinkedIn-Darshil%20Vaja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
