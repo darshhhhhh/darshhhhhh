@@ -104,20 +104,6 @@ I enjoy turning real-world problems into structured AI/ML solutions using Python
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=darshhhhhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-  alt="Darshil's GitHub Stats" 
-  height="170"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshhhhhh&layout=compact&theme=tokyonight&hide_border=true" 
-  alt="Top Languages" 
-  height="170"
-/>
-
-<br><br>
-
-<img 
   src="https://streak-stats.demolab.com?user=darshhhhhh&theme=tokyonight&hide_border=true" 
   alt="GitHub Streak" 
 />
