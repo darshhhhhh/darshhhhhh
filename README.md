@@ -91,7 +91,7 @@ I enjoy turning real-world problems into structured AI/ML solutions using Python
 
 ## What I’m Currently Focused On
 
-- Building production-ready AI/ML projects
+- Building production-ready AI/ML systems
 - Strengthening Agentic AI and RAG-based application development
 - Improving model deployment and MLOps fundamentals
 - Developing Computer Vision and NLP-based solutions
