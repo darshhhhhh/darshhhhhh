@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Darshil Vaja 👋</h1>
+<h1 align="center">Hi, I'm Darshil Vaja</h1>
 
 <h3 align="center">
 Aspiring Machine Learning Engineer | AI/ML Developer | Generative AI & Computer Vision Enthusiast
